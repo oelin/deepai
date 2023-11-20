@@ -1,0 +1,19 @@
+{
+  "name": "deepai",
+  "version": "1.0.0",
+  "description": "A Node.js client for DeepAI's AI Chat.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "client"
+  ],
+  "author": "Oelin",
+  "license": "ISC",
+  "dependencies": {
+    "chiaki": "^2.0.0"
+  }
+}
