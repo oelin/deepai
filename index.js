@@ -37,8 +37,3 @@ export default function DeepAI() {
 	}
     }
 }
-
-
-const client = DeepAI()
-const a = await client.chat.completions.create('d', [{role: 'user', content: 'hello how are you?'}])
-console.log(a)
